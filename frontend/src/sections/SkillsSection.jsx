@@ -30,22 +30,22 @@ const SkillsSection = () => {
           <div className="space-y-4">
             <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Embedded & Hardware</h3>
             <div className="flex flex-wrap gap-2">
-              <Badge variant="outline" className="px-4 py-2 text-sm border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 STM32
               </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 Arduino
               </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 Raspberry Pi
               </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 Embedded C / C++
               </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 PCB Design
               </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 Sensors & Actuators
               </Badge>
             </div>
