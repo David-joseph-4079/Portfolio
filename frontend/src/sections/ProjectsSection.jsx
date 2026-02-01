@@ -20,7 +20,7 @@ const ProjectsSection = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-[#0f1b2e] to-transparent"></div>
             </div>
             <CardContent className="p-6 space-y-4">
-              <h3 className="text-xl font-bold">2-Wheel Self-Balancing Electric Wheelchair</h3>
+              <h3 className="text-xl font-bold">Wheel Self-Balancing Electric Wheelchair</h3>
               <p className="text-gray-300 text-sm leading-relaxed">Developed a sophisticated Simulink-based control architecture for a self-balancing wheelchair system with real-world vehicle testing and STM32 deployment.</p>
               <div className="flex flex-wrap gap-2 pt-2">
                 <Badge className="bg-[#f59e0b]/10 text-[#f59e0b] border-[#f59e0b]/30 text-xs">MATLAB/Simulink</Badge>
