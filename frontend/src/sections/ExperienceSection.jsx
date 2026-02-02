@@ -14,9 +14,9 @@ const ExperienceSection = () => {
               <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-6">
                 <div>
                   <h3 className="text-2xl font-bold text-[#f59e0b] mb-2">Lead Robotics Engineer</h3>
-                  <p className="text-xl text-gray-300">Centaur Robotics Limited</p>
+                  <p className="text-xl text-gray-300">Centaur Robotics Limited (Personal mobility manufacturer)</p>
                 </div>
-                <div className="text-gray-400 font-semibold mt-2 md:mt-0">2025</div>
+                <div className="text-gray-400 font-semibold mt-2 md:mt-0">Jan 2025 - Nov 2025</div>
               </div>
               <ul className="space-y-3">
                 <li className="flex items-start text-gray-300">

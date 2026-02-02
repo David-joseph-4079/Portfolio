@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardContent } from '../components/ui/card';
-
+import adaImg from "../Assets/sae.jpeg";
 const AchievementsSection = () => {
   return (
     <section id="achievements" className="py-24 bg-[#0f1b2e]">
@@ -18,9 +18,21 @@ const AchievementsSection = () => {
                 </h3>
                 <p className="text-lg text-gray-300">
                   Best MSc Robotics Project – University of Sheffield
+                  <p>
+           A Comparative Analysis of A* and Dijkstra Algorithm using a mobile robot 🤖
+          </p>
                 </p>
               </div>
-            </div>
+
+              {/* RIGHT: Image */}
+  {/*  <div className="md:w-1/3 w-full">
+      <img
+        src={adaImg}
+        alt="Ada Lovelace Award"
+        className="w-full h-40 object-cover rounded-lg border border-[#f59e0b]/30"
+      />
+    </div>
+*/}           </div>
           </CardContent>
         </Card>
       </div>

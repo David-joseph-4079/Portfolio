@@ -10,7 +10,7 @@ const SkillsSection = () => {
         </h2>
         <div className="grid md:grid-cols-2 gap-8">
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Control & Systems</h3>
+            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Software</h3>
             <div className="flex flex-wrap gap-2">
               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 MATLAB / Simulink
@@ -19,10 +19,16 @@ const SkillsSection = () => {
                 Model-Based Design
               </Badge>
               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
-                Control Systems (PID, LQR, Fuzzy)
+                C/C++
               </Badge>
               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
-                V-Cycle
+                Embedded C( Arduino IDE,STM32CubeIDE)
+              </Badge>
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                ROS
+              </Badge>
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Github
               </Badge>
             </div>
           </div>
@@ -39,15 +45,7 @@ const SkillsSection = () => {
               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 Raspberry Pi
               </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
-                Embedded C / C++
-              </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
-                PCB Design
-              </Badge>
-              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
-                Sensors & Actuators
-              </Badge>
+              
             </div>
           </div>
 
@@ -66,15 +64,62 @@ const SkillsSection = () => {
             </div>
           </div>
 
+
+          
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Tools</h3>
+            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Testing & Validation</h3>
             <div className="flex flex-wrap gap-2">
               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
-                Git / GitHub
+                MIL / SIL / HIL Testing
               </Badge>
               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
-                ROS
+                System Integration
               </Badge>
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Functional Safety
+              </Badge>
+            </div>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Soft Skills</h3>
+            <div className="flex flex-wrap gap-2">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Communication
+              </Badge>
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Adaptability
+              </Badge>
+               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Teamwork
+              </Badge>
+               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Problem Solving
+              </Badge>
+               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Networking
+              </Badge>
+            </div>
+          </div>
+
+
+          <div className="space-y-4">
+            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">CAD</h3>
+            <div className="flex flex-wrap gap-2">
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                AutoCAD
+              </Badge>
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                EasyEDA
+              </Badge>
+              
+            </div>
+          </div>
+
+          <div className="space-y-4">
+            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Communication Protocols</h3>
+            <div className="flex flex-wrap gap-2">
+          
               <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
                 CAN
               </Badge>

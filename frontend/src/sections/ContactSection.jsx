@@ -14,12 +14,8 @@ const ContactSection = () => {
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <Button
-            onClick={() => window.location.href = 'mailto:david@example.com'}
-            className="bg-[#f59e0b] hover:bg-[#d97706] text-white px-8 py-6 text-lg font-semibold transition-all hover:scale-105"
-          >
-            <Mail className="mr-2 h-5 w-5" /> Send Email
-          </Button>
+                   
+          
           <Button
             onClick={() => window.open('https://linkedin.com', '_blank')}
             variant="outline"

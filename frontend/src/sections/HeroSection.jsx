@@ -17,16 +17,16 @@ const HeroSection = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-6xl lg:text-7xl font-bold leading-tight">
-                David Joseph
+                David Joseph Premkumar
               </h1>
-              <h2 className="text-3xl lg:text-4xl font-bold text-[#f59e0b] leading-tight">
-                Model-Based Systems Engineer<br />
-                Robotics Engineer
+              <h2 className="text-3xl lg:text-3xl font-bold text-[#f59e0b] leading-tight">
+                
+                Robotics | Control Systems Engineer
               </h2>
             </div>
             
             <p className="text-lg text-gray-300 leading-relaxed max-w-xl">
-              Robotics and Model-Based Systems Engineer with 3+ years of experience building and validating electromechanical systems using MATLAB/Simulink, MIL/SIL/HIL workflows, and embedded platforms.
+              Robotics/Control system Engineer with 3+ years of experience building and validating electrical vehicles using MATLAB/Simulink, MIL/SIL/HIL workflows, and embedded platforms.
             </p>
 
             <div className="flex flex-wrap gap-4">
@@ -54,12 +54,7 @@ const HeroSection = () => {
               >
                 <Linkedin className="h-6 w-6" />
               </a>
-              <a
-                href="mailto:david@example.com"
-                className="p-3 border border-gray-700 rounded-lg hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all"
-              >
-                <Mail className="h-6 w-6" />
-              </a>
+              
               <a
                 href="https://github.com"
                 target="_blank"
