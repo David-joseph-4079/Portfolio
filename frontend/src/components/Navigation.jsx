@@ -33,7 +33,7 @@ const Navigation = () => {
     }
   };
 
-  const navItems = ['About', 'Experience', 'Skills', 'Projects', 'Contact'];
+  const navItems = ['About', 'Experience', 'Skills', 'Projects', 'Education', 'Contact'];
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#0a1628]/95 backdrop-blur-sm border-b border-gray-800">
