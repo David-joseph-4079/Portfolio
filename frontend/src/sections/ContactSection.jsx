@@ -7,7 +7,7 @@ const ContactSection = () => {
     <section id="contact" className="py-24">
       <div className="max-w-5xl mx-auto px-6 lg:px-12 text-center">
         <h2 className="text-4xl lg:text-5xl font-bold mb-6">
-          Any type of query & discussion.
+          Have an idea or project on your mind? I'm here to help.
         </h2>
         <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto">
           Let's build something remarkable together. Whether it's a technical discussion, collaboration opportunity, or project inquiry, I'm always open to connecting.
