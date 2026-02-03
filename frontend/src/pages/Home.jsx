@@ -5,6 +5,7 @@ import ExperienceSection from '../sections/ExperienceSection';
 import SkillsSection from '../sections/SkillsSection';
 import ProjectsSection from '../sections/ProjectsSection';
 import AchievementsSection from '../sections/AchievementsSection';
+import EducationSection from '../sections/EducationSection';
 import ContactSection from '../sections/ContactSection';
 import Navigation from '../components/Navigation';
 import Footer from '../components/Footer';
