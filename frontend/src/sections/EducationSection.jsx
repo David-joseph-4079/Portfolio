@@ -26,7 +26,7 @@ const EducationSection = () => {
                       <p className="text-xl text-gray-300">University of Sheffield</p>
                     </div>
                     <div className="text-gray-400 font-semibold mt-2 md:mt-0">
-                      2021 - 2023
+                      2021 - 2022
                     </div>
                   </div>
                   <div className="space-y-3">
@@ -36,7 +36,7 @@ const EducationSection = () => {
                     <div className="pt-2">
                       <h4 className="text-sm font-semibold text-[#f59e0b] mb-2">Key Coursework:</h4>
                       <p className="text-gray-400 text-sm leading-relaxed">
-                        [Add your MSc coursework description here - e.g., Advanced Control Systems, Machine Learning for Robotics, Computer Vision, Autonomous Systems, Sensor Fusion, Path Planning and Navigation, Robot Kinematics and Dynamics, etc.]
+                        [Control Systems, Machine Learning, Computer Vision, Autonomous Systems, Sensor Fusion, Path Planning and Navigation, Robot Kinematics and Dynamics,MATLAB/Simulink]
                       </p>
                     </div>
                   </div>
@@ -58,20 +58,20 @@ const EducationSection = () => {
                       <h3 className="text-2xl font-bold text-[#f59e0b] mb-1">
                         Bachelor of Engineering (BE) in Mechanical Engineering
                       </h3>
-                      <p className="text-xl text-gray-300">[Add Your University Name]</p>
+                      <p className="text-xl text-gray-300">[Rajalakshmi Institue of Technology]</p>
                     </div>
                     <div className="text-gray-400 font-semibold mt-2 md:mt-0">
-                      [Year Range]
+                      2016-2021
                     </div>
                   </div>
                   <div className="space-y-3">
                     <p className="text-gray-300 leading-relaxed">
-                      <span className="font-semibold text-white">[Add Grade/Honors if applicable]</span>
+                      <span className="font-semibold text-white">First Class - 7.86 CGPA</span>
                     </p>
                     <div className="pt-2">
                       <h4 className="text-sm font-semibold text-[#f59e0b] mb-2">Key Coursework:</h4>
                       <p className="text-gray-400 text-sm leading-relaxed">
-                        [Add your BE coursework description here - e.g., Thermodynamics, Fluid Mechanics, Manufacturing Processes, CAD/CAM, Machine Design, Materials Science, Dynamics of Machinery, Heat Transfer, etc.]
+                        [Thermodynamics, Fluid Mechanics, Manufacturing Processes, CAD/CAM, Machine Design, Materials Science, Dynamics of Machinery, Heat Transfer, Strength of materials.]
                       </p>
                     </div>
                   </div>
