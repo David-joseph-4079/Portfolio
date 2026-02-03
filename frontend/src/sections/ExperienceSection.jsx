@@ -21,23 +21,27 @@ const ExperienceSection = () => {
               <ul className="space-y-3">
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Leading ISO 26262-compliant Simulink development for safety-critical vehicle systems</span>
+                  <span>Produced ISO 26262-compliant Simulink code for an electric wheelchair control systems.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Architecting and deploying control algorithms on STM32 embedded platforms</span>
+                  <span>Delivered end-to-end system architecture for electrical and software domains.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Overseeing HIL/SIL testing infrastructure and validation workflows</span>
+                  <span>Oversaw HIL/SIL testing infrastructure and validation workflows.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Spearheading PCB design and hardware integration for robotics platforms</span>
+                  <span>PM for PCB design and manufacturing projects.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Driving technical strategy for prototype delivery and fundraising initiatives</span>
+                  <span>Driving technical strategy for production delivery.</span>
+                </li>
+                 <li className="flex items-start text-gray-300">
+                  <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
+                  <span>Troubleshooting hardware and software issues across the entire system. </span>
                 </li>
               </ul>
             </CardContent>
@@ -50,28 +54,36 @@ const ExperienceSection = () => {
                   <h3 className="text-2xl font-bold text-[#f59e0b] mb-2">Robotics Engineer</h3>
                   <p className="text-xl text-gray-300">Centaur Robotics Limited</p>
                 </div>
-                <div className="text-gray-400 font-semibold mt-2 md:mt-0">2023–2025</div>
+                <div className="text-gray-400 font-semibold mt-2 md:mt-0">Jan 2023– Jan 2025</div>
               </div>
               <ul className="space-y-3">
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Developed ISO 26262-compliant MATLAB/Simulink models for vehicle control systems</span>
+                  <span>Performed control system R&D for a 2-wheel self balancing electric wheelchair.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Implemented and tested embedded software on STM32 microcontrollers</span>
+                  <span>Successfully integrated joystick based control for a self-balancing wheelchair.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Conducted MIL, SIL, and HIL testing to validate control algorithms</span>
+                  <span>Built simulation environment on Simscape multibody to test and validate control algorithms.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Designed and fabricated custom PCBs for sensor integration and motor control</span>
+                  <span>Designed and fabricated custom PCBs for HMI,sensor integration and motor control.</span>
                 </li>
                 <li className="flex items-start text-gray-300">
                   <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
-                  <span>Delivered full functional prototype contributing to successful fundraising round</span>
+                  <span>Delivered full functional prototype contributing to successful fundraising round.</span>
+                </li>
+                <li className="flex items-start text-gray-300">
+                  <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
+                  <span>Built 2nd product(4 wheel electric wheelchair) Proof of concept prototype in 2 months.</span>
+                </li>
+                <li className="flex items-start text-gray-300">
+                  <span className="text-[#f59e0b] mr-3 mt-1">▸</span>
+                  <span>Took on complete responsibilty for builidng vehicle control software & electrical systems.</span>
                 </li>
               </ul>
             </CardContent>

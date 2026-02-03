@@ -12,8 +12,17 @@ const AboutSection = () => {
             As an MSc Robotics graduate from the University of Sheffield, I've dedicated my career to pushing the boundaries of engineering. My journey in robotics combines rigorous academic training with hands-on startup experience, giving me a unique perspective on building systems that work in the real world.
           </p>
           <p>
-            At Centaur Robotics, I've taken full ownership of projects from concept to deployment, leading the development of ISO 26262-compliant vehicle control system software. My approach centers on model-based design philosophy—using MATLAB/Simulink to create robust, validated systems before deployment on embedded platforms like STM32.
-          </p>
+  At{" "}
+  <a
+    href="https://centaurrobotics.com/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-400 hover:underline"
+  >
+    Centaur Robotics
+  </a>
+  , I've taken full ownership of projects from concept to deployment, leading the development of ISO 26262-compliant vehicle control system software. My approach centers on model-based design philosophy—using MATLAB/Simulink to create robust, validated systems before deployment on embedded platforms like STM32. I was their only engineer for close to year and a half, I took on multiple roles making me a well rounded engineer.
+</p>
           <p>
             What drives me is the intersection of mechanical, electrical, and software engineering. I believe the best robotics solutions emerge when you understand all three domains deeply. Whether it's designing PCBs, implementing control algorithms, or validating systems through HIL testing, I bring a cross-disciplinary mindset to every challenge.
           </p>

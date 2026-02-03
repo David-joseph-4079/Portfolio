@@ -133,6 +133,19 @@ const SkillsSection = () => {
                 UART
               </Badge>
             </div>
+            </div>
+
+          <div className="space-y-4">
+            <h3 className="text-xl font-bold text-[#f59e0b] mb-4">Other skills</h3>
+            <div className="flex flex-wrap gap-2">
+          
+                <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Project Management
+              </Badge>
+              <Badge variant="outline" className="px-4 py-2 text-sm text-[#f59e0b] border-gray-700 hover:border-[#f59e0b] hover:bg-[#f59e0b]/10 transition-all cursor-default">
+                Leadership
+              </Badge>
+            </div>
           </div>
         </div>
       </div>
